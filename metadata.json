@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI - Next-Gen Intelligence Platform",
+  "description": "Turn complex ideas into intelligent products, automated workflows and scalable digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
